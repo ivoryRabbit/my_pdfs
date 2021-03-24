@@ -1,4 +1,4 @@
-# PT PDF Archive
+# PT/PDF Archive
 
 - 이력 관리
   - [Technical Portfolio](https://cdn.jsdelivr.net/gh/ivoryRabbit/pdf/Technical_Portfolio.pdf)
